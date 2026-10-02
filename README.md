@@ -22,6 +22,6 @@ Framework preset: `None`. Build command: vazio. Build output directory: `public`
 
 ## Identificação (preencha após o fork)
 
-Nome: 
-RA: 
-URL: https://
+Nome: Bernardo Lopes de Araujo
+RA: 2026108086
+URL: https://desenhoassinado.pages.dev
